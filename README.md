@@ -19,6 +19,10 @@
 
 - ⚡ Fun fact **I think I can code.**
 
+<img src="https://raw.githubusercontent.com/himanchal08/himanchal08/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
