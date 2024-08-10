@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3  # Node.js 20 compatible
+      - uses: actions/checkout@v3  # Compatible with future Node.js 20
 
       - uses: Platane/snk@master
         id: snake-gif
@@ -21,11 +21,11 @@ jobs:
       - run: git status
 
       - name: Commit and Push changes
-        uses: github-actions-x/commit@v2.6  # Updated to a more recent action
+        uses: github-actions-x/commit@v2.6  # Corrected input keys
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
-          force: true
+          github-token: ${{ secrets.GITHUB_TOKEN }}  # Correct input key
+          push-branch: output  # Correct input key for the branch name
+          force-add: true  # Correct input key for force adding files
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
