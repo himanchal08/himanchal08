@@ -32,7 +32,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanchal08&show_icons=true&locale=en" alt="himanchal08" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanchal08&" alt="himanchal08" /></p>
-![snake gif](https://github.com/himanchal08/himanchal08/blob/output/github-contribution-grid-snake.gif)
+
+![snake gif](https://github.com/himanchal08/hiamnchal08/blob/output/github-contribution-grid-snake.gif)
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats">
