@@ -33,11 +33,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanchal08&" alt="himanchal08" /></p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="ocean.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="ocean.gif" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-![](https://raw.githubusercontent.com/himanchal08/himanchal08/output/github-contribution-grid-snake.svg)
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats">
 </p>
