@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanchal Khattri</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=100&color=165CF7&center=true&width=250&height=40&lines=Web+Developer;Web+Desginer+;Problem+Solver;Editor" alt="Typing SVG" /></a> from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanchal08&label=Profile%20views&color=0e75b6&style=flat" alt="himanchal08" /> </p>
 
